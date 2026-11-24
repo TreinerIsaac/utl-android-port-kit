@@ -24,7 +24,7 @@ Port nativo nao oficial de **Steven Universe: Unleash the Light** (PC/Steam) par
 1. Baixe e instale o **`UTL_Android_Launcher_BYOG.apk`** na aba **Releases**.
 2. Coloque o arquivo `.zip` com os bundles convertidos para Android (`utl_bundles`) na pasta **Download** do celular.
 3. Abra o app, toque em **`SELECIONAR ZIP (ANDROID)`** e escolha o arquivo.
-4. Aguarde a extra??o finalizar, ajuste o perfil/tamanho das caixas se desejar e toque em **`JOGAR`**.
+4. Aguarde a extracao finalizar, ajuste o perfil/tamanho das caixas se desejar e toque em **`JOGAR`**.
 
 ---
 
@@ -37,7 +37,7 @@ Port nativo nao oficial de **Steven Universe: Unleash the Light** (PC/Steam) par
 - *(Opcional)* **ADB** configurado no PATH.
 
 ### Passo a passo
-1. D? duplo clique em **`Iniciar_Launcher.bat`** (ou execute `python UTL_Android_Launcher.pyw`).
+1. De duplo clique em **`Iniciar_Launcher.bat`** (ou execute `python UTL_Android_Launcher.pyw`).
 2. Indique o caminho do `Unity.exe` (`2020.3.12f1`) e da pasta `ExportedProject`.
 3. Escolha a arquitetura (**ARM64**, **ARMv7** ou **Universal**) e o perfil (**Release** ou **Master**).
 4. Clique em **`FAZER TUDO (1 + 2 + 3)`** ? ou use no Unity o menu **`UTL Port > Compilar APK Launcher BYOG (Leve, sem AssetBundles)`**.
