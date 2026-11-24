@@ -44,10 +44,10 @@ Port nativo nao oficial de **Steven Universe: Unleash the Light** (PC/Steam) par
 
 ---
 
-## Cr?ditos e Colabora??o
+## Creditos e Colaboracao
 
-- **Idealiza??o, testes, engenharia de port e builds Android:** [TreinerIsaac](https://github.com/TreinerIsaac)
-- **Colabora??o t?cnica (scripts C#, shaders GLES, otimiza??es de desempenho e Launcher BYOG):** **Gemini**
+- **Idealizacao, testes, engenharia de port e builds Android:** [TreinerIsaac](https://github.com/TreinerIsaac)
+- **Colaboracao tecnica (scripts C#, shaders GLES, otimiza??es de desempenho e Launcher BYOG):** **Gemini**
 
 ---
 
