@@ -1,6 +1,6 @@
 # Steven Universe: Unleash the Light ? Android Port Kit & BYOG Launcher
 
-Port nativo n?o oficial de **Steven Universe: Unleash the Light** (PC/Steam) para **Android (`ARM64` e `ARMv7`)**, projetado para rodar com paridade visual com o PC tanto em smartphones modernos (60 FPS) quanto em dispositivos de entrada com **2 GB de RAM e GPU ARM Mali**.
+Port nativo nao oficial de **Steven Universe: Unleash the Light** (PC/Steam) para **Android (`ARM64` e `ARMv7`)**, projetado para rodar com paridade visual com o PC tanto em smartphones modernos (60 FPS) quanto em dispositivos de entrada com **2 GB de RAM e GPU ARM Mali (30 ou menos)**.
 
 > **Aviso Legal:** Este reposit?rio **n?o cont?m** assets, texturas, ?udios, AssetBundles ou c?digo propriet?rio do jogo original. Para utilizar este port ou o Launcher BYOG, ? necess?rio possuir uma c?pia legal de *Steven Universe: Unleash the Light* na Steam.
 
