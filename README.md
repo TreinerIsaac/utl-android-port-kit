@@ -1,4 +1,5 @@
 # Steven Universe: Unleash the Light ? Android Port Kit & BYOG Launcher
+<img width="2400" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e71a83f-d65c-4962-9802-b1c0e013c416" />
 
 Port nativo nao oficial de **Steven Universe: Unleash the Light** (PC/Steam) para **Android (`ARM64` e `ARMv7`)**, projetado para rodar com paridade visual com o PC tanto em smartphones modernos (60 FPS) quanto em dispositivos de entrada com **2 GB de RAM e GPU ARM Mali (30 ou menos)**.
 
